@@ -1,0 +1,366 @@
+[
+  'Rs. 500\n\nBlue Top\n\nAdd to cart\nRs. 500\n\nBlue Top\n\nAdd to cart\nView Product',
+  'Rs. 400\n' +
+    '\n' +
+    'Men Tshirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 400\n' +
+    '\n' +
+    'Men Tshirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1000\n' +
+    '\n' +
+    'Sleeveless Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1000\n' +
+    '\n' +
+    'Sleeveless Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1500\n' +
+    '\n' +
+    'Stylish Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1500\n' +
+    '\n' +
+    'Stylish Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 600\n' +
+    '\n' +
+    'Winter Top\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 600\n' +
+    '\n' +
+    'Winter Top\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 400\n' +
+    '\n' +
+    'Summer White Top\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 400\n' +
+    '\n' +
+    'Summer White Top\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1000\n' +
+    '\n' +
+    'Madame Top For Women\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1000\n' +
+    '\n' +
+    'Madame Top For Women\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 700\n' +
+    '\n' +
+    'Fancy Green Top\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 700\n' +
+    '\n' +
+    'Fancy Green Top\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 499\n' +
+    '\n' +
+    'Sleeves Printed Top - White\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 499\n' +
+    '\n' +
+    'Sleeves Printed Top - White\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 359\n' +
+    '\n' +
+    'Half Sleeves Top Schiffli Detailing - Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 359\n' +
+    '\n' +
+    'Half Sleeves Top Schiffli Detailing - Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 278\n' +
+    '\n' +
+    'Frozen Tops For Kids\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 278\n' +
+    '\n' +
+    'Frozen Tops For Kids\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 679\n' +
+    '\n' +
+    'Full Sleeves Top Cherry - Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 679\n' +
+    '\n' +
+    'Full Sleeves Top Cherry - Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 315\n' +
+    '\n' +
+    'Printed Off Shoulder Top - White\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 315\n' +
+    '\n' +
+    'Printed Off Shoulder Top - White\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 478\n' +
+    '\n' +
+    'Sleeves Top and Short - Blue & Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 478\n' +
+    '\n' +
+    'Sleeves Top and Short - Blue & Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1200\n' +
+    '\n' +
+    'Little Girls Mr. Panda Shirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1200\n' +
+    '\n' +
+    'Little Girls Mr. Panda Shirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1050\n' +
+    '\n' +
+    'Sleeveless Unicorn Patch Gown - Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1050\n' +
+    '\n' +
+    'Sleeveless Unicorn Patch Gown - Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1190\n' +
+    '\n' +
+    'Cotton Mull Embroidered Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1190\n' +
+    '\n' +
+    'Cotton Mull Embroidered Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1530\n' +
+    '\n' +
+    'Blue Cotton Indie Mickey Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1530\n' +
+    '\n' +
+    'Blue Cotton Indie Mickey Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1600\n' +
+    '\n' +
+    'Long Maxi Tulle Fancy Dress Up Outfits -Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1600\n' +
+    '\n' +
+    'Long Maxi Tulle Fancy Dress Up Outfits -Pink\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1100\n' +
+    '\n' +
+    'Sleeveless Unicorn Print Fit & Flare Net Dress - Multi\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1100\n' +
+    '\n' +
+    'Sleeveless Unicorn Print Fit & Flare Net Dress - Multi\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 849\n' +
+    '\n' +
+    'Colour Blocked Shirt – Sky Blue\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 849\n' +
+    '\n' +
+    'Colour Blocked Shirt – Sky Blue\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1299\n' +
+    '\n' +
+    'Pure Cotton V-Neck T-Shirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1299\n' +
+    '\n' +
+    'Pure Cotton V-Neck T-Shirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1000\n' +
+    '\n' +
+    'Green Side Placket Detail T-Shirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1000\n' +
+    '\n' +
+    'Green Side Placket Detail T-Shirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1500\n' +
+    '\n' +
+    'Premium Polo T-Shirts\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1500\n' +
+    '\n' +
+    'Premium Polo T-Shirts\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 850\n' +
+    '\n' +
+    'Pure Cotton Neon Green Tshirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 850\n' +
+    '\n' +
+    'Pure Cotton Neon Green Tshirt\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 799\n' +
+    '\n' +
+    'Soft Stretch Jeans\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 799\n' +
+    '\n' +
+    'Soft Stretch Jeans\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1200\n' +
+    '\n' +
+    'Regular Fit Straight Jeans\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1200\n' +
+    '\n' +
+    'Regular Fit Straight Jeans\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1400\n' +
+    '\n' +
+    'Grunt Blue Slim Fit Jeans\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1400\n' +
+    '\n' +
+    'Grunt Blue Slim Fit Jeans\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 2300\n' +
+    '\n' +
+    'Rose Pink Embroidered Maxi Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 2300\n' +
+    '\n' +
+    'Rose Pink Embroidered Maxi Dress\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 3000\n' +
+    '\n' +
+    'Cotton Silk Hand Block Print Saree\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 3000\n' +
+    '\n' +
+    'Cotton Silk Hand Block Print Saree\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 3500\n' +
+    '\n' +
+    'Rust Red Linen Saree\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 3500\n' +
+    '\n' +
+    'Rust Red Linen Saree\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 5000\n' +
+    '\n' +
+    'Beautiful Peacock Blue Cotton Linen Saree\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 5000\n' +
+    '\n' +
+    'Beautiful Peacock Blue Cotton Linen Saree\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1400\n' +
+    '\n' +
+    'Lace Top For Women\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1400\n' +
+    '\n' +
+    'Lace Top For Women\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product',
+  'Rs. 1389\n' +
+    '\n' +
+    'GRAPHIC DESIGN MEN T SHIRT - BLUE\n' +
+    '\n' +
+    'Add to cart\n' +
+    'Rs. 1389\n' +
+    '\n' +
+    'GRAPHIC DESIGN MEN T SHIRT - BLUE\n' +
+    '\n' +
+    'Add to cart\n' +
+    'View Product'
+]

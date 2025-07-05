@@ -1,0 +1,46 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Automation Exercise website":
+    - /url: /
+    - img "Automation Exercise website"
+  - list:
+    - listitem:
+      - link " Home":
+        - /url: /
+    - listitem:
+      - link " Products":
+        - /url: /products
+    - listitem:
+      - link " Cart":
+        - /url: /view_cart
+    - listitem:
+      - link " Signup / Login":
+        - /url: /login
+    - listitem:
+      - link " Test Cases":
+        - /url: /test_cases
+    - listitem:
+      - link " API Testing":
+        - /url: /api_list
+    - listitem:
+      - link " Video Tutorials":
+        - /url: https://www.youtube.com/c/AutomationExercise
+    - listitem:
+      - link " Contact us":
+        - /url: /contact_us
+- heading "Account Created!" [level=2]
+- paragraph: Congratulations! Your new account has been successfully created!
+- paragraph: You can now take advantage of member privileges to enhance your online shopping experience with us.
+- link "Continue":
+  - /url: /
+- contentinfo:
+  - heading "Subscription" [level=2]
+  - textbox "Your email address"
+  - button ""
+  - paragraph: Get the most recent updates from our site and be updated your self...
+  - paragraph: Copyright © 2021 All rights reserved
+- insertion:
+  - iframe
+```

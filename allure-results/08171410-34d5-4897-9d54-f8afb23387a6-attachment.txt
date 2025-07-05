@@ -1,0 +1,49 @@
+Number of Violations are:  1
+{
+  testEngine: { name: 'axe-core', version: '4.10.3' },
+  testRunner: { name: 'axe' },
+  testEnvironment: {
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.23 Safari/537.36',
+    windowWidth: 1280,
+    windowHeight: 720,
+    orientationAngle: 0,
+    orientationType: 'landscape-primary'
+  },
+  timestamp: '2025-07-05T08:00:44.472Z',
+  url: 'https://demowebshop.tricentis.com/',
+  toolOptions: { runOnly: { type: 'tag', values: [Array] }, reporter: 'v1' },
+  inapplicable: [],
+  passes: [
+    {
+      id: 'target-size',
+      impact: 'serious',
+      tags: [Array],
+      description: 'Ensure touch targets have sufficient size and space',
+      help: 'All touch targets must be 24px large, or leave sufficient space',
+      helpUrl: 'https://dequeuniversity.com/rules/axe/4.10/target-size?application=playwright',
+      nodes: [Array]
+    }
+  ],
+  incomplete: [
+    {
+      id: 'target-size',
+      impact: 'serious',
+      tags: [Array],
+      description: 'Ensure touch targets have sufficient size and space',
+      help: 'All touch targets must be 24px large, or leave sufficient space',
+      helpUrl: 'https://dequeuniversity.com/rules/axe/4.10/target-size?application=playwright',
+      nodes: [Array]
+    }
+  ],
+  violations: [
+    {
+      id: 'target-size',
+      impact: 'serious',
+      tags: [Array],
+      description: 'Ensure touch targets have sufficient size and space',
+      help: 'All touch targets must be 24px large, or leave sufficient space',
+      helpUrl: 'https://dequeuniversity.com/rules/axe/4.10/target-size?application=playwright',
+      nodes: [Array]
+    }
+  ]
+}
