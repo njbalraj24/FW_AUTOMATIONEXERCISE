@@ -1,0 +1,4 @@
+Account Created!
+Congratulations! Your new account has been successfully created!
+Account Deleted!
+Your account has been permanently deleted!

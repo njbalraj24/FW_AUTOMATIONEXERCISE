@@ -2,7 +2,7 @@ import{test, expect} from '@playwright/test'
 import { TestConfig } from '../test.config'
 import { ProductsPage } from '../pages/ProductsPage'
 
-test('Products - Fetch all products names and prize, Search, Add to Cart',async({page})=>{
+test('Products - Fetch all products names and prize, Search, Add to Cart',{ tag:'@regression'}, async({page})=>{
 
     const config = new TestConfig();
     await page.goto(config.appUrl);

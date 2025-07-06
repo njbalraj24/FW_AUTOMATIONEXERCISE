@@ -3,7 +3,7 @@ import { TestConfig } from '../test.config';
 import { ContactusPage } from '../pages/ContactusPage'
 import { RandomDataUtil } from '../utils/randomDataGenerator';
 
-test('TC6 Contact Us Form',async({page})=>{
+test('TC6 Contact Us Form',{tag: '@regression'}, async({page})=>{
 
     const config = new TestConfig();
     await page.goto(config.appUrl);

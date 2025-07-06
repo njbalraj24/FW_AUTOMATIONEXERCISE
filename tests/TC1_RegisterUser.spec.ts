@@ -5,7 +5,7 @@ import { LogoutPage } from '../pages/LogoutPage'
 import { TestConfig } from '../test.config'
 import { RandomDataUtil } from '../utils/randomDataGenerator'
 
-test('TC1 Register User', { tag: '@sanity' }, async ({ page }) => {
+test('TC1 Register User', {tag:'@sanity'}, async ({ page }) => {
 
     const config = new TestConfig();
     await page.goto(config.appUrl);  //Navigate to application URL

@@ -2,7 +2,10 @@
   "name": "fw_automationexercise",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test:sanity": "playwright test --grep @sanity --headed",
+    "test:regression": "playwright test --grep @regression"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
